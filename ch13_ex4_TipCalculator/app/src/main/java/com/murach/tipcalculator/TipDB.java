@@ -123,4 +123,8 @@ public class TipDB {
             }
         }
     }
+    
+    //need to add onPause and onResume to save ticalculations
+    
+    
 }
